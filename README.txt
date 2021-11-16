@@ -1,3 +1,8 @@
+GITHUB DISCLAIMER
+As no empty folders can be stored in the github repository, I pre-populated the "monsters/" directory. 
+I recommend to empty this folder before starting the game, so that you get your own randomly generated Unlichtwesen at the start of the game.
+
+
 INTRO
 
 Welcome to Unlichtwesen ('dark creatures'), a roguelike game developed with libtcod and bearlibterminal in python.
@@ -6,8 +11,6 @@ For any feedback, bugs, comments or questions feel free to email me under jan_rl
 
 Download page for the game: https://jan-rl.itch.io/unlichtwesen
 
-GITHUB DISCLAIMER: As no empty folders can be stored in the github repository, I pre-populated the "monsters/" directory. 
-I recommend to empty this folder before starting the game, so that you get your own randomly generated Unlichtwesen at the start of the game.
 
 THE GAME
 
