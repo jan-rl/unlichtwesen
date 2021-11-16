@@ -5125,7 +5125,7 @@ def choose_weapon():
             
 T.open()
 T.set("window: size=" + str(SCREEN_WIDTH) + "x" + str(SCREEN_HEIGHT) + ', title=Unlichtwesen v1.0')
-T.set("font: courbd.ttf, size=16")
+T.set("font: terminal16x16_gs_ro.png, size=16x16, codepage=437")
 
 #T.set("0x00A1: tileset_16.png, size=16x16, align=top-left, spacing=2x1" )
 
