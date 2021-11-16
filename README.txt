@@ -1,5 +1,3 @@
-![Unlichtwesen](https://img.itch.zone/aW1hZ2UvMTI2NDYwLzU4MjE5Ny5wbmc=/original/ApZ9d6.png)
-
 INTRO
 
 Welcome to Unlichtwesen ('dark creatures'), a roguelike game developed with libtcod and bearlibterminal in python.
