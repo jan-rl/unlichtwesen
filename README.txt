@@ -49,11 +49,9 @@ REQUIREMENTS
 
 This is for Windows only, running the .exe should be enough. 
     
-LICENSE
-
-Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. My code is public domain, no copyright, spread the love.
-
 
 DISCLAIMER
+
+Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. 
 
 This is code writte by a hobbyist. I am not a programmer by education, and this code is not distributed commercially. Although I write and use this code on my machine without any known issues, download and execution is at your own risk.
